@@ -30,6 +30,7 @@ export const GlobalStyles = createGlobalStyle`
 
     body {
         min-height: 100vh;
+        padding-top: 4.8rem;
         background: ${({ theme }) => `radial-gradient(134.34% 134.34% at 50% 0%, ${(theme.gradientes.azulEscuroInicial)} 0%, ${(theme.gradientes.azulEscuroFinal)} 100%);`}
     }
 `;
