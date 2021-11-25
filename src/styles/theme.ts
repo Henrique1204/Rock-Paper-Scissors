@@ -12,6 +12,8 @@ export const theme = {
     roxoFinal: 'hsl(261, 72%, 63%)',
     cianoInicial: 'hsl(189, 59%, 53%)',
     cianoFinal: 'hsl(189, 58%, 57%)',
+    brancoInicial: '#F3F3F3',
+    brancoFinal: '#FFF',
   },
   cores: {
     textoEscuro: 'hsl(229, 25%, 31%)',
