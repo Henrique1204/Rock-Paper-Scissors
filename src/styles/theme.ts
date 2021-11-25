@@ -17,5 +17,6 @@ export const theme = {
     textoEscuro: 'hsl(229, 25%, 31%)',
     textoPontuacao: 'hsl(229, 64%, 46%)',
     bordaDoHeader: 'hsl(217, 16%, 45%)',
+    branco: '#FFF'
   }
 };
